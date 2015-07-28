@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 hello!
 Creating a new branch is quick and simple.
 Add merge.
-
+good morning!
